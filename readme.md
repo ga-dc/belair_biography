@@ -1,3 +1,3 @@
 # Will Smith's Autobiography
 
-http://ga-dc.github.io/belair_biography/
+http://ga-wdi-exercises.github.io/belair_biography/
